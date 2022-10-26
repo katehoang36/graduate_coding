@@ -1,1 +1,4 @@
-[{"outage": true}]
+{
+  "outage": true,
+  "maintainance": true
+}
